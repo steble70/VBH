@@ -1,6 +1,5 @@
 # Mörkret före klockan nio
 
-
 ### Logline
 En arbetslös man på väg till Arbetsförmedlingen med en dödlig plan tvingas konfrontera sitt förflutna när minnesbilder, beroenden och en växande konspiration väver samman verklighet och vanföreställning — avslöjandet vänder allt upp och ner och leder till en katastrof som kräver ett moraliskt uppvaknande.
 
